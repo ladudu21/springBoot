@@ -83,6 +83,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/html.html to edit this temp
             frame.src = URL.createObjectURL(event.target.files[0]);
         }
     </script>
+    
     <script th:if="*{id} == -1">
         document.getElementsByTagName("fieldset")[0].disabled = false;
         document.getElementsByTagName("fieldset")[1].disabled = false;
