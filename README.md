@@ -1,5 +1,5 @@
 # springBoot
- 
+ Bài tập Java web đơn giản.
  Kiến thức sử dụng:
 - SpringBoot
 - Spring MVC 
